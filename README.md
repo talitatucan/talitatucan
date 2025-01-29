@@ -17,7 +17,7 @@
 <!--apresentação-->
 
 <p>
-  Olá, meu nome é Talita. Formada no curso Técnico em Informática para Internet, e atualmente estudando C++. Sou do Brasil &#x1F1E7;&#x1F1F7;
+  Olá, meu nome é Talita. Formada no curso Técnico em Informática para Internet. Sou do Brasil &#x1F1E7;&#x1F1F7;
 
 - 🌱 Atualmente estou estudando C++;
   
