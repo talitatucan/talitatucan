@@ -17,13 +17,12 @@
 <!--apresentação-->
 
 <p>
-  Olá, meu nome é Talita. Formada no curso Técnico em Informática para Internet. Sou do Brasil &#x1F1E7;&#x1F1F7;
+  Oi, meu nome é Talita. Formada no curso Técnico em Informática para Internet. Sou do Brasil &#x1F1E7;&#x1F1F7;
 
 - 🌱 Atualmente estou estudando C++;
   
 - 🔭 Procurando pelo meu primeiro emprego.
 </p>
-<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&to=talitatucan@gmail.com)
 
