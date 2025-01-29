@@ -25,15 +25,16 @@
 
 - 🌱 Atualmente estou estudando C++;
   
-- 🔭 Procurando pelo meu primeiro emprego. Gosto de programar ^^
+- 🔭 Procurando pelo meu primeiro emprego. Gosto de programar.
 </p>
 
 <details>
-  <sumary>Mais sobre mim</sumary>
+  <summary>mais sobre mim</summary>
   
-- 📖  Sei sobre HTML, CSS, C++, e lembro pouco sobre SGBDs (Sistemas Gerenciadores de Bancos de Dados).
+- Sei sobre HTML, CSS, C++, e lembro pouco sobre SGBDs (Sistemas Gerenciadores de Bancos de Dados).
 
-- ⚡ Gosto de jogar jogos, especialmente RPGs. Pretendo fazer faculdade de Ciência da Computação futuramente.
+- Gosto de jogar jogos, especialmente RPGs. Pretendo fazer faculdade de Ciência da Computação futuramente.
 </details>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&to=talitatucan@gmail.com)
+
