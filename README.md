@@ -12,7 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/talitatucan/talitatucan/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+<br>
 
 <!--apresentação-->
 
